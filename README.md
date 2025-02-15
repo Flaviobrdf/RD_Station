@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Teste Técnico - Recomendador de Produtos RD Station
 
 Este projeto é parte do teste técnico para a vaga de desenvolvedor front-end na RD Station. O objetivo principal é implementar a lógica de recomendação de produtos RD Station em uma aplicação web existente.
@@ -100,3 +101,7 @@ Desenvolvido por Flávio Sant'ana de Souza
 ## Licença
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
+=======
+# RD_Station
+Recomendador de Produtos RD Station - implementação de um sistema de recomendação de produtos. permitindo aos usuários selecionar preferências e receber recomendações de produtos correspondentes.
+>>>>>>> 1eee8a4dd89b483a2b66e02ff58f5c30969c4405
