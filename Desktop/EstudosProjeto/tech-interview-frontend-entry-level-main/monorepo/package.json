@@ -5,7 +5,6 @@
     "packages/*"
   ],
   "scripts": {
-    "test": "lerna run test",
     "start": "lerna run start",
     "start:frontend": "cd frontend && npm start",
     "start:backend": "cd backend && npm start",
